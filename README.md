@@ -17,9 +17,9 @@ If you need any additional info for installation you could check the docs from [
 
 ### Project Structure
 
-`domain-analysis.pdf`: the domain analysis of the program.
-`functions.txt`: a list of the program functions.
-`starter.rkt`: the source code.
+- `domain-analysis.pdf`: the domain analysis of the program.
+- `functions.txt`: a list of the program functions.
+- `starter.rkt`: the source code.
 
 ### Domain Analysis
 
